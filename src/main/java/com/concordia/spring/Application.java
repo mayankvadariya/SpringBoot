@@ -4,6 +4,7 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 //This is the init class
 //This is second line comment
+//I am testing to move this code out to github
 @SpringBootApplication
 public class Application {
 
