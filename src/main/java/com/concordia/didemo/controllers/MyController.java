@@ -1,7 +1,6 @@
 package com.concordia.didemo.controllers;
 
 import com.concordia.didemo.services.GreetingService;
-import org.springframework.beans.factory.annotation.Qualifier;
 import org.springframework.stereotype.Controller;
 
 /**

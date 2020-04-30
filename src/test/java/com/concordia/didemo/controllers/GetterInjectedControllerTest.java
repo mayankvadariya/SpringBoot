@@ -1,7 +1,5 @@
 package com.concordia.didemo.controllers;
 
-
-import com.concordia.didemo.controllers.GetterInjectedController;
 import com.concordia.didemo.services.GreetingServiceImpl;
 import org.junit.Before;
 import org.junit.Test;
