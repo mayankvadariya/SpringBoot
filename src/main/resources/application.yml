@@ -3,3 +3,13 @@ guru:
     username: "JMS username yml"
     password: "somepassword"
     url: "someURL"
+
+--- #This is file separator so it will be considered as a new file
+spring:
+  profiles: de
+
+guru:
+  jms:
+    username: JMS username $$$ in German yml file
+
+
